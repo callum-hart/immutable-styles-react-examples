@@ -12,7 +12,7 @@ const button = {
       font-family: 'Open Sans', sans-serif;
     </button>
   ),
-  hover: createStyle(
+  hover: createMixin(
     <button pseudo=":hover">
       cursor: pointer;
     </button>

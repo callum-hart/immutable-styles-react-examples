@@ -1,7 +1,11 @@
 # Immutable Styles React Examples
 > Repo containing examples of using immutable styles with React.
 
-## Setup
+## Demo
+
+An online demo can be [found here](https://callum-hart.github.io/immutable-styles-react-examples/dist/index.html).
+
+## Run Locally
 
 Clone the repository:
 
